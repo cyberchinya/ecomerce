@@ -4,6 +4,9 @@ use App\Http\Livewire\HomeComponent;
 use App\Http\Livewire\ShopComponent;
 use App\Http\Livewire\CartComponent;
 use App\Http\Livewire\CheckoutComponent;
+use App\Http\Livewire\UserDashboardComponent;
+use App\Http\Livewire\AdminDashboardComponent;
+
 
 /*Route::get('/', function () {
     return view('welcome');
