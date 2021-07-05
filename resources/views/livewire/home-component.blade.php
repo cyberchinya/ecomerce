@@ -20,7 +20,7 @@
                         <span class="f-subtitle">On online payments</span>
                         <p class="discount-code">Use Code: #FA6868</p>
                         <h4 class="s-title">Get Free</h4>
-                        <p class="s-subtitle">TRansparent Bra Straps</p>
+                        <p class="s-subtitle">Transparent Bra Straps</p>
                     </div>
                 </div>
                 <div class="item-slide">
